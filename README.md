@@ -1,4 +1,4 @@
-# <p align="center">Hi 👋, I'm Loc Tran Tran</p>
+# <p align="center">Hi, I'm Loc Tran Tran</p>
 
 ### Languages and Tools:
 
